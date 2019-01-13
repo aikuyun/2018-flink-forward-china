@@ -51,7 +51,9 @@
 [06 戴资力 - Apache Flink 流式应用中状态的数据结构定义升级](https://files.alicdn.com/tpsservice/d9fde10f25b061916eab468ac2c1fc47.pdf)
 
 
-### 分会场三 [看视频点我](https://yq.aliyun.com/live/704)
+### 分会场三
+
+[看视频点我](https://yq.aliyun.com/live/704)
 
 [01 邹丹 - Flink在字节跳动的实践](https://files.alicdn.com/tpsservice/6b7686e18135389a76e2a0e476b270ec.pdf)
 
