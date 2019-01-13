@@ -2,7 +2,7 @@
 
 ### 主会场
 
-[看视频点我](https://yq.aliyun.com/live/701)
+:point_right: [视频](https://yq.aliyun.com/live/701)
 
 [01 Craig Russell - Apache Flink: 践行 Apache 之道](https://files.alicdn.com/tpsservice/b40e46ca0abcef3e3f12f7fe12c46f0a.pdf)
 
@@ -19,7 +19,7 @@
 
 ### 分会场一
 
-[看视频点我](https://yq.aliyun.com/live/703)
+:point_right: [视频](https://yq.aliyun.com/live/703)
 
 [01 钱正平 - 为并行图数据处理提供高层抽象／语言](https://files.alicdn.com/tpsservice/1f9799e34cd9ce22678b1ed13b71e615.pdf)
 
@@ -36,7 +36,7 @@
 
 ### 分会场二
 
-[看视频点我](https://yq.aliyun.com/live/702)
+:point_right: [视频](https://yq.aliyun.com/live/702)
 
 [01 Radu Tudoran - Flink Forward China 2018](https://files.alicdn.com/tpsservice/3d836d6366a800dc70f52a0ec0bb5bc5.pdf)
 
@@ -53,7 +53,7 @@
 
 ### 分会场三
 
-[看视频点我](https://yq.aliyun.com/live/704)
+:point_right: [视频](https://yq.aliyun.com/live/704)
 
 [01 邹丹 - Flink在字节跳动的实践](https://files.alicdn.com/tpsservice/6b7686e18135389a76e2a0e476b270ec.pdf)
 
@@ -70,7 +70,7 @@
 
 ### 分会场四
 
-[看视频点我](https://yq.aliyun.com/live/705)
+:point_right: [视频](https://yq.aliyun.com/live/705)
 
 [01 王绍翾 / 章剑锋 - Challenges and Opportunities of Apache Flink® Ecosystem](https://files.alicdn.com/tpsservice/6122ed352e520aae78a22ed19657d150.pdf)
 
@@ -87,7 +87,7 @@
 
 ### 分会场五
 
-[看视频点我](https://yq.aliyun.com/live/707)
+:point_right: [视频](https://yq.aliyun.com/live/707)
 
 [01 姜春宇 - 以标准推动开源技术在行业的落地](https://files.alicdn.com/tpsservice/13039399808974a7c40be0c5d671061e.pdf)
 
